@@ -29,8 +29,7 @@ export default function App() {
             'content-type': 'application/x-www-form-urlencoded',
             'accept-encoding': 'application/gzip',
             'x-rapidapi-host': 'google-translate1.p.rapidapi.com',
-            'x-rapidapi-key':
-              '4617c47134msha8ca20c76eacf3ap11debbjsn9337c995f13e',
+            'x-rapidapi-key': 'secret'
           },
         }
       );
